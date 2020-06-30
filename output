@@ -1,0 +1,11 @@
+Validation MAE when not specifying max_leaf_nodes: 29,653
+Accuracy  0.7399665322271229
+
+Validation MAE for best value of max_leaf_nodes: 27,283
+0.7623862154868193
+
+Validation MAE for Random Forest Model: 22762.42931506849
+Accuracy  0.8335010492661331
+
+Validation MAE for GradientBoosting Model: 22762.42931506849
+Accuracy  0.8435302925453688
