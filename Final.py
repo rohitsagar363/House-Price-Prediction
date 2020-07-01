@@ -61,7 +61,9 @@ print("Validation MAE for Random Forest Model: {}".format(rf_val_mae))
 #accuracy
 print(rf_model.score(val_X,val_y))
 
-
+'''
+Achieved an accuracy of 84% using Random Forest Model
+'''
 
 from sklearn.ensemble import GradientBoostingRegressor
 # Define the model. Set random_state to 1
